@@ -1,3 +1,3 @@
 # Transformer
 
-Notes for transformer courses in Huggingface.
+Notes for transformer courses in Hugging Face.
