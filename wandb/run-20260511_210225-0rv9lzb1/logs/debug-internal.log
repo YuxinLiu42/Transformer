@@ -517,3 +517,534 @@
 {"time":"2026-05-11T22:05:58.574797+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
 {"time":"2026-05-11T22:06:13.362587+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":508,"events_lines":2}
 {"time":"2026-05-11T22:06:13.564979+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:06:28.362752+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":510,"events_lines":2}
+{"time":"2026-05-11T22:06:28.54816+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:06:43.36267+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":512,"events_lines":2}
+{"time":"2026-05-11T22:06:43.593283+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:06:58.362719+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":514,"events_lines":2}
+{"time":"2026-05-11T22:06:58.605287+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:09:32.295531+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":516,"events_lines":2}
+{"time":"2026-05-11T22:09:42.550795+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:09:47.283966+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":518,"events_lines":2}
+{"time":"2026-05-11T22:09:47.671841+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:10:02.281862+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":520,"events_lines":2}
+{"time":"2026-05-11T22:10:02.654379+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:10:17.282185+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":522,"events_lines":2}
+{"time":"2026-05-11T22:10:34.716881+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:10:41.64318+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":524,"events_lines":2}
+{"time":"2026-05-11T22:10:42.0509+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:10:56.639339+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":526,"events_lines":2}
+{"time":"2026-05-11T22:10:56.906828+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:11:11.639869+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":528,"events_lines":2}
+{"time":"2026-05-11T22:11:12.933208+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:11:51.808061+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":530,"events_lines":2}
+{"time":"2026-05-11T22:29:13.13179+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 10.181.96.91:51305->34.8.250.101:443: read: can't assign requested address"}
+{"time":"2026-05-11T22:29:15.221115+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-11T22:29:19.3573+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-11T22:29:28.767467+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:29:28.774154+02:00","level":"INFO","msg":"filestream: sending request","total_files":0}
+{"time":"2026-05-11T22:29:29.094436+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:29:29.09516+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":532,"events_lines":10}
+{"time":"2026-05-11T22:29:29.421399+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:29:34.24554+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":542,"events_lines":1}
+{"time":"2026-05-11T22:29:34.908994+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:29:49.247644+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":543,"events_lines":3}
+{"time":"2026-05-11T22:29:49.883316+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:45:30.559434+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":546,"events_lines":2}
+{"time":"2026-05-11T22:45:30.583722+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51378->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-11T22:45:33.913483+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:45:45.557114+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":548,"events_lines":2}
+{"time":"2026-05-11T22:45:45.869632+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:46:00.555451+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":550,"events_lines":2}
+{"time":"2026-05-11T22:46:00.949459+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:55:05.053948+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":552,"events_lines":1}
+{"time":"2026-05-11T22:55:05.519048+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:55:20.052177+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":553,"events_lines":3}
+{"time":"2026-05-11T22:55:20.308057+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T22:55:35.053814+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":556,"events_lines":2}
+{"time":"2026-05-11T22:55:35.281323+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:11:15.561813+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":558,"events_lines":1}
+{"time":"2026-05-11T23:11:15.712685+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51383->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-11T23:11:18.636069+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:11:30.559923+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":559,"events_lines":3}
+{"time":"2026-05-11T23:11:31.02701+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:11:45.560686+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":562,"events_lines":2}
+{"time":"2026-05-11T23:11:45.8006+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:27:25.519971+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":564,"events_lines":1}
+{"time":"2026-05-11T23:27:25.545688+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51415->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-11T23:27:28.380066+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:27:40.518477+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":565,"events_lines":3}
+{"time":"2026-05-11T23:27:40.838849+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:27:55.51785+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":568,"events_lines":2}
+{"time":"2026-05-11T23:27:55.801127+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:28:10.517108+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":570,"events_lines":2}
+{"time":"2026-05-11T23:28:10.773217+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:43:51.067974+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":572,"events_lines":2}
+{"time":"2026-05-11T23:43:51.095602+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51423->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-11T23:43:53.979728+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:44:06.067454+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":574,"events_lines":2}
+{"time":"2026-05-11T23:44:06.370133+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-11T23:59:46.579358+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":576,"events_lines":2}
+{"time":"2026-05-11T23:59:46.60508+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51435->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-11T23:59:49.409557+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:00:01.574934+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":578,"events_lines":2}
+{"time":"2026-05-12T00:00:02.233156+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:00:16.574899+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":580,"events_lines":2}
+{"time":"2026-05-12T00:00:16.924815+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:08:09.12463+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":582,"events_lines":2}
+{"time":"2026-05-12T00:08:09.50507+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:08:24.124782+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":584,"events_lines":2}
+{"time":"2026-05-12T00:08:24.441625+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:24:04.000102+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":586,"events_lines":2}
+{"time":"2026-05-12T00:24:04.027393+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51448->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T00:24:06.555748+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:24:19.00005+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":588,"events_lines":2}
+{"time":"2026-05-12T00:24:19.345317+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:24:34.000091+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":590,"events_lines":2}
+{"time":"2026-05-12T00:24:34.551658+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:40:13.895564+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":592,"events_lines":2}
+{"time":"2026-05-12T00:40:13.919346+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51462->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T00:40:16.897621+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:40:28.895041+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":594,"events_lines":2}
+{"time":"2026-05-12T00:40:29.354912+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:40:43.896093+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":596,"events_lines":2}
+{"time":"2026-05-12T00:40:44.133942+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:56:24.376355+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":598,"events_lines":2}
+{"time":"2026-05-12T00:56:24.400846+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51467->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T00:56:26.841632+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:56:39.37628+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":600,"events_lines":2}
+{"time":"2026-05-12T00:56:40.051569+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T00:56:54.376128+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":602,"events_lines":2}
+{"time":"2026-05-12T00:56:54.896951+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:12:34.920403+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":604,"events_lines":2}
+{"time":"2026-05-12T01:12:34.944709+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51479->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T01:12:37.807892+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:12:49.920661+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":606,"events_lines":2}
+{"time":"2026-05-12T01:12:50.299106+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:28:30.403348+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":608,"events_lines":2}
+{"time":"2026-05-12T01:28:30.424206+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51488->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T01:28:33.489414+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:28:45.402314+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":610,"events_lines":2}
+{"time":"2026-05-12T01:28:46.095073+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:29:25.253092+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":612,"events_lines":2}
+{"time":"2026-05-12T01:29:25.503091+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:29:40.253088+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":614,"events_lines":2}
+{"time":"2026-05-12T01:29:40.538243+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:45:20.857347+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":616,"events_lines":2}
+{"time":"2026-05-12T01:45:20.881881+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51493->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T01:45:23.599199+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:45:35.856815+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":618,"events_lines":2}
+{"time":"2026-05-12T01:45:36.24917+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:45:50.857883+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":620,"events_lines":2}
+{"time":"2026-05-12T01:45:51.147579+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:51:36.257526+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":622,"events_lines":2}
+{"time":"2026-05-12T01:51:36.647136+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T01:51:51.256929+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":624,"events_lines":2}
+{"time":"2026-05-12T01:51:51.524743+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:07:31.753797+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":626,"events_lines":2}
+{"time":"2026-05-12T02:07:31.776377+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51509->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T02:07:34.560724+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:07:46.752961+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":628,"events_lines":2}
+{"time":"2026-05-12T02:07:47.110879+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:08:01.753419+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":630,"events_lines":2}
+{"time":"2026-05-12T02:08:02.153286+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:23:42.362037+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":632,"events_lines":2}
+{"time":"2026-05-12T02:23:42.385334+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51527->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T02:23:45.163489+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:23:57.361207+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":634,"events_lines":2}
+{"time":"2026-05-12T02:23:57.761196+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:24:12.361677+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":636,"events_lines":2}
+{"time":"2026-05-12T02:24:12.654951+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:39:52.23153+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":638,"events_lines":2}
+{"time":"2026-05-12T02:39:52.256299+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51539->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T02:39:54.840521+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:40:07.23227+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":640,"events_lines":2}
+{"time":"2026-05-12T02:40:07.555715+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:40:22.231218+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":642,"events_lines":2}
+{"time":"2026-05-12T02:40:22.858396+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:56:02.696228+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":644,"events_lines":2}
+{"time":"2026-05-12T02:56:02.782234+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51552->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T02:56:05.805622+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:56:17.694063+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":646,"events_lines":2}
+{"time":"2026-05-12T02:56:18.121001+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T02:56:32.694846+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":648,"events_lines":2}
+{"time":"2026-05-12T02:56:33.010014+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T03:12:12.567695+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":650,"events_lines":2}
+{"time":"2026-05-12T03:12:12.591105+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51561->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T03:12:15.627809+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T03:12:27.568393+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":652,"events_lines":2}
+{"time":"2026-05-12T03:12:28.335611+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T03:12:42.567533+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":654,"events_lines":2}
+{"time":"2026-05-12T03:12:42.809917+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T03:28:22.401488+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":656,"events_lines":2}
+{"time":"2026-05-12T03:28:22.449383+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51583->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T03:28:24.932218+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T03:28:37.401072+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":658,"events_lines":2}
+{"time":"2026-05-12T03:28:37.661255+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T03:28:52.400973+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":660,"events_lines":2}
+{"time":"2026-05-12T03:28:52.746629+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T03:44:32.252633+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":662,"events_lines":2}
+{"time":"2026-05-12T03:44:32.280588+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51590->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T03:44:34.736232+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T03:44:47.252107+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":664,"events_lines":2}
+{"time":"2026-05-12T03:44:50.994036+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T04:49:36.843457+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":666,"events_lines":1}
+{"time":"2026-05-12T04:49:55.032205+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51606->34.8.250.101:443: read: operation timed out"}
+{"time":"2026-05-12T04:49:59.268135+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T04:49:59.268765+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":667,"events_lines":3}
+{"time":"2026-05-12T04:49:59.542065+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T04:50:06.845466+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":670,"events_lines":2}
+{"time":"2026-05-12T04:50:07.111087+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:05:46.015299+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":672,"events_lines":2}
+{"time":"2026-05-12T05:05:46.038967+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51636->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T05:05:48.87586+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:06:01.016126+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":674,"events_lines":2}
+{"time":"2026-05-12T05:06:01.489721+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:06:16.015855+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":676,"events_lines":2}
+{"time":"2026-05-12T05:06:16.3121+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:21:55.848299+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":678,"events_lines":2}
+{"time":"2026-05-12T05:21:55.874983+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51645->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T05:21:58.328155+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:22:10.847666+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":680,"events_lines":2}
+{"time":"2026-05-12T05:22:11.393516+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:22:50.700144+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":682,"events_lines":2}
+{"time":"2026-05-12T05:22:51.051051+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:23:05.699085+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":684,"events_lines":2}
+{"time":"2026-05-12T05:23:06.077027+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:38:45.540536+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":686,"events_lines":2}
+{"time":"2026-05-12T05:38:45.568277+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51660->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T05:38:48.428126+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:39:00.540766+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":688,"events_lines":2}
+{"time":"2026-05-12T05:39:00.849422+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:54:40.418069+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":690,"events_lines":2}
+{"time":"2026-05-12T05:54:40.439143+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51672->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T05:54:43.249498+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:55:20.311808+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":692,"events_lines":2}
+{"time":"2026-05-12T05:55:20.698375+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T05:55:35.311652+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":694,"events_lines":2}
+{"time":"2026-05-12T05:55:35.589201+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:00:59.836263+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":696,"events_lines":2}
+{"time":"2026-05-12T06:01:00.135758+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:01:14.836252+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":698,"events_lines":2}
+{"time":"2026-05-12T06:01:15.149802+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:16:54.802816+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":700,"events_lines":2}
+{"time":"2026-05-12T06:16:55.253288+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51684->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T06:16:58.421226+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:17:09.723553+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":702,"events_lines":2}
+{"time":"2026-05-12T06:17:10.0124+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:17:24.72319+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":704,"events_lines":2}
+{"time":"2026-05-12T06:17:24.99686+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:17:39.722736+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":706,"events_lines":2}
+{"time":"2026-05-12T06:17:39.986756+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:33:20.352164+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":708,"events_lines":2}
+{"time":"2026-05-12T06:33:20.375935+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51707->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T06:33:23.134863+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:33:35.352001+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":710,"events_lines":2}
+{"time":"2026-05-12T06:33:35.678437+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:33:50.351996+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":712,"events_lines":2}
+{"time":"2026-05-12T06:49:30.2578+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51719->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T06:49:32.996524+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:49:32.997376+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":714,"events_lines":2}
+{"time":"2026-05-12T06:49:33.25606+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:49:45.199874+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":716,"events_lines":2}
+{"time":"2026-05-12T06:49:45.590111+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T06:50:00.199046+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":718,"events_lines":2}
+{"time":"2026-05-12T06:50:00.610038+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:05:40.032104+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":720,"events_lines":2}
+{"time":"2026-05-12T07:05:40.057826+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51728->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T07:05:42.698364+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:05:55.030303+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":722,"events_lines":2}
+{"time":"2026-05-12T07:05:55.32985+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:06:10.03221+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":724,"events_lines":2}
+{"time":"2026-05-12T07:06:10.274601+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:21:49.874478+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":726,"events_lines":2}
+{"time":"2026-05-12T07:21:49.896711+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51740->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T07:21:52.716558+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:22:04.874695+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":728,"events_lines":2}
+{"time":"2026-05-12T07:22:05.561274+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:22:19.874489+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":730,"events_lines":2}
+{"time":"2026-05-12T07:22:20.16364+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:37:59.731421+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":732,"events_lines":2}
+{"time":"2026-05-12T07:37:59.753606+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51753->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T07:38:02.516586+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:38:14.730311+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":734,"events_lines":2}
+{"time":"2026-05-12T07:38:15.03965+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:38:29.72984+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":736,"events_lines":2}
+{"time":"2026-05-12T07:38:30.061672+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:54:10.307398+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":738,"events_lines":2}
+{"time":"2026-05-12T07:54:10.331049+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51765->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T07:54:13.048858+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:54:25.305698+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":740,"events_lines":2}
+{"time":"2026-05-12T07:54:25.667137+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:54:40.307542+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":742,"events_lines":2}
+{"time":"2026-05-12T07:54:40.721556+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:57:02.146916+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":744,"events_lines":2}
+{"time":"2026-05-12T07:57:02.545792+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T07:57:17.146053+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":746,"events_lines":2}
+{"time":"2026-05-12T07:57:17.51936+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:12:57.747853+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":748,"events_lines":2}
+{"time":"2026-05-12T08:12:57.781446+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51775->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T08:13:00.234907+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:13:12.748928+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":750,"events_lines":2}
+{"time":"2026-05-12T08:13:13.079096+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:13:27.74714+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":752,"events_lines":2}
+{"time":"2026-05-12T08:13:28.020318+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:25:46.290712+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":754,"events_lines":2}
+{"time":"2026-05-12T08:25:46.312466+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51798->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T08:25:48.836695+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:26:01.291538+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":756,"events_lines":2}
+{"time":"2026-05-12T08:26:01.725416+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:41:41.918581+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":758,"events_lines":2}
+{"time":"2026-05-12T08:41:41.992804+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51812->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T08:41:44.75345+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:41:56.918019+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":760,"events_lines":2}
+{"time":"2026-05-12T08:41:57.157968+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:42:11.916035+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":762,"events_lines":2}
+{"time":"2026-05-12T08:42:12.177554+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:57:52.477205+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":764,"events_lines":2}
+{"time":"2026-05-12T08:57:52.577794+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51825->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T08:57:55.405313+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:58:07.471145+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":766,"events_lines":2}
+{"time":"2026-05-12T08:58:07.726991+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:58:22.470326+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":768,"events_lines":2}
+{"time":"2026-05-12T08:58:22.737596+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T08:58:37.469175+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":770,"events_lines":2}
+{"time":"2026-05-12T08:58:37.799748+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:14:17.9947+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":772,"events_lines":2}
+{"time":"2026-05-12T09:14:18.017719+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51835->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T09:14:20.717157+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:14:32.995093+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":774,"events_lines":2}
+{"time":"2026-05-12T09:14:33.496108+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:14:47.995266+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":776,"events_lines":2}
+{"time":"2026-05-12T09:14:48.353777+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:30:27.861461+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":778,"events_lines":2}
+{"time":"2026-05-12T09:30:27.888373+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51849->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T09:30:30.845061+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:30:42.861398+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":780,"events_lines":2}
+{"time":"2026-05-12T09:30:43.138471+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:30:57.861605+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":782,"events_lines":2}
+{"time":"2026-05-12T09:30:58.125162+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:47:02.606522+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":784,"events_lines":2}
+{"time":"2026-05-12T09:47:02.755589+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51862->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T09:47:05.670964+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:47:17.606662+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":786,"events_lines":2}
+{"time":"2026-05-12T09:47:18.06295+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:47:32.606892+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":788,"events_lines":2}
+{"time":"2026-05-12T09:47:32.894619+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:57:54.519527+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":790,"events_lines":2}
+{"time":"2026-05-12T09:57:54.55154+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51875->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T09:57:57.628018+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:58:09.518077+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":792,"events_lines":2}
+{"time":"2026-05-12T09:58:09.844315+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:58:27.418129+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":794,"events_lines":2}
+{"time":"2026-05-12T09:58:27.813636+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:58:42.418565+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":796,"events_lines":2}
+{"time":"2026-05-12T09:58:42.718687+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:58:57.418312+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":798,"events_lines":2}
+{"time":"2026-05-12T09:58:57.766278+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:59:12.418374+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":800,"events_lines":2}
+{"time":"2026-05-12T09:59:12.822014+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:59:34.515062+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":802,"events_lines":2}
+{"time":"2026-05-12T09:59:34.854185+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T09:59:49.515723+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":804,"events_lines":2}
+{"time":"2026-05-12T09:59:49.99071+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:15:29.359845+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":806,"events_lines":2}
+{"time":"2026-05-12T10:15:29.384515+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51887->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T10:15:32.387916+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:15:44.359771+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":808,"events_lines":2}
+{"time":"2026-05-12T10:15:44.675917+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:31:24.262499+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":810,"events_lines":2}
+{"time":"2026-05-12T10:31:24.29128+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51899->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T10:31:27.073185+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:31:39.263161+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":812,"events_lines":2}
+{"time":"2026-05-12T10:31:39.611694+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:31:54.261533+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":814,"events_lines":2}
+{"time":"2026-05-12T10:31:54.538276+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:32:15.461177+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":816,"events_lines":2}
+{"time":"2026-05-12T10:32:15.818431+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:32:30.4614+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":818,"events_lines":2}
+{"time":"2026-05-12T10:32:30.944043+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:32:45.459341+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":820,"events_lines":2}
+{"time":"2026-05-12T10:32:45.922581+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:48:26.093572+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":822,"events_lines":2}
+{"time":"2026-05-12T10:48:26.115923+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51905->34.8.250.101:443: read: connection reset by peer"}
+{"time":"2026-05-12T10:48:28.767138+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:48:41.093258+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":824,"events_lines":2}
+{"time":"2026-05-12T10:48:41.352135+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T10:50:38.855994+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":826,"events_lines":2}
+{"time":"2026-05-12T10:50:56.903743+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 192.168.178.63:51924->34.8.250.101:443: read: can't assign requested address"}
+{"time":"2026-05-12T10:58:55.242353+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-12T10:58:59.287214+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-12T10:59:08.368344+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-12T11:03:27.184519+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:03:27.186077+02:00","level":"INFO","msg":"filestream: sending request","total_files":0}
+{"time":"2026-05-12T11:03:27.420871+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:03:27.421041+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":828,"events_lines":6}
+{"time":"2026-05-12T11:03:27.850887+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:03:31.945863+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":834,"events_lines":1}
+{"time":"2026-05-12T11:03:32.30274+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:03:46.947504+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":835,"events_lines":3}
+{"time":"2026-05-12T11:03:47.310621+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:19:27.593568+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":838,"events_lines":1}
+{"time":"2026-05-12T11:19:56.888342+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": read tcp 10.181.96.91:51934->34.8.250.101:443: read: can't assign requested address"}
+{"time":"2026-05-12T11:19:59.263822+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-12T11:20:03.371233+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-12T11:20:11.660096+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-12T11:20:45.299204+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-12T11:21:19.139414+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-12T11:22:49.16546+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/liuyuxinnj-lincoln-memorial-university/transformer-fine-tuning/0rv9lzb1/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-05-12T11:23:49.679315+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:23:49.685949+02:00","level":"INFO","msg":"filestream: sending request","total_files":0}
+{"time":"2026-05-12T11:23:50.011769+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:23:50.013282+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":839,"events_lines":33}
+{"time":"2026-05-12T11:23:50.355036+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:23:56.936917+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":872,"events_lines":1}
+{"time":"2026-05-12T11:23:57.258965+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:24:11.936943+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":873,"events_lines":3}
+{"time":"2026-05-12T11:24:12.199476+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:24:26.956203+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":876,"events_lines":1}
+{"time":"2026-05-12T11:24:27.228792+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:24:41.956465+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":877,"events_lines":3}
+{"time":"2026-05-12T11:24:42.333669+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:24:56.956516+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":880,"events_lines":2}
+{"time":"2026-05-12T11:24:57.239991+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:25:11.956357+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":882,"events_lines":2}
+{"time":"2026-05-12T11:25:12.229994+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:25:26.956239+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":884,"events_lines":2}
+{"time":"2026-05-12T11:25:27.222577+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:25:41.956795+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":886,"events_lines":2}
+{"time":"2026-05-12T11:25:42.413067+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:25:56.961685+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":888,"events_lines":1}
+{"time":"2026-05-12T11:25:57.313066+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:26:11.96164+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":889,"events_lines":1}
+{"time":"2026-05-12T11:26:12.315385+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:26:26.956805+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":890,"events_lines":4}
+{"time":"2026-05-12T11:26:27.260412+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:26:41.955937+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":894,"events_lines":1}
+{"time":"2026-05-12T11:26:42.321399+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:26:56.956154+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":895,"events_lines":3}
+{"time":"2026-05-12T11:26:57.270793+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:27:11.957128+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":898,"events_lines":2}
+{"time":"2026-05-12T11:27:12.261751+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:27:26.956574+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":900,"events_lines":2}
+{"time":"2026-05-12T11:27:27.221521+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:27:41.959789+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":902,"events_lines":1}
+{"time":"2026-05-12T11:27:42.198049+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:27:56.956059+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":903,"events_lines":3}
+{"time":"2026-05-12T11:27:57.175606+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:28:11.955911+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":906,"events_lines":2}
+{"time":"2026-05-12T11:28:12.326917+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:28:26.956645+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":908,"events_lines":2}
+{"time":"2026-05-12T11:28:27.183994+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:28:41.963149+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":910,"events_lines":2}
+{"time":"2026-05-12T11:28:42.214724+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:28:56.9571+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":912,"events_lines":2}
+{"time":"2026-05-12T11:28:57.486963+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:29:11.956045+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":914,"events_lines":2}
+{"time":"2026-05-12T11:29:12.295244+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:29:26.956655+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":916,"events_lines":2}
+{"time":"2026-05-12T11:29:27.227592+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:29:41.968258+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":918,"events_lines":1}
+{"time":"2026-05-12T11:29:42.338007+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:29:56.969327+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":919,"events_lines":3}
+{"time":"2026-05-12T11:29:57.357814+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:30:11.969269+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":922,"events_lines":2}
+{"time":"2026-05-12T11:30:12.367254+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:30:26.969329+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":924,"events_lines":2}
+{"time":"2026-05-12T11:30:27.488211+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:30:41.969637+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":926,"events_lines":2}
+{"time":"2026-05-12T11:30:42.609768+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:30:56.969495+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":928,"events_lines":2}
+{"time":"2026-05-12T11:30:57.308264+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:31:11.969279+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":930,"events_lines":2}
+{"time":"2026-05-12T11:31:12.655105+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:31:26.972154+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":932,"events_lines":2}
+{"time":"2026-05-12T11:31:27.400972+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:31:41.969736+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":934,"events_lines":2}
+{"time":"2026-05-12T11:31:42.657256+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:31:56.968838+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":936,"events_lines":2}
+{"time":"2026-05-12T11:31:57.301006+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:32:11.969181+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":938,"events_lines":2}
+{"time":"2026-05-12T11:32:12.220118+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:32:26.969154+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":940,"events_lines":2}
+{"time":"2026-05-12T11:32:27.225847+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:32:41.969173+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":942,"events_lines":2}
+{"time":"2026-05-12T11:32:42.255175+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:32:56.969541+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":944,"events_lines":2}
+{"time":"2026-05-12T11:32:57.226796+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:33:11.969226+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":946,"events_lines":2}
+{"time":"2026-05-12T11:33:12.227384+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:33:26.969161+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":948,"events_lines":2}
+{"time":"2026-05-12T11:33:27.215581+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:33:41.969375+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":950,"events_lines":2}
+{"time":"2026-05-12T11:33:42.402238+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:33:56.968665+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":952,"events_lines":2}
+{"time":"2026-05-12T11:33:57.546387+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:34:11.970404+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":954,"events_lines":2}
+{"time":"2026-05-12T11:34:12.247135+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:34:26.969008+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":956,"events_lines":2}
+{"time":"2026-05-12T11:34:27.420556+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:34:41.97011+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":958,"events_lines":2}
+{"time":"2026-05-12T11:34:42.266659+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:34:56.969409+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":960,"events_lines":2}
+{"time":"2026-05-12T11:34:57.265946+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:35:11.969034+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":962,"events_lines":2}
+{"time":"2026-05-12T11:35:12.374468+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:35:26.96887+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":964,"events_lines":2}
+{"time":"2026-05-12T11:35:27.238353+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:35:41.969057+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":966,"events_lines":2}
+{"time":"2026-05-12T11:35:42.244494+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:35:56.968911+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":968,"events_lines":2}
+{"time":"2026-05-12T11:35:57.331606+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:36:11.968998+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":970,"events_lines":2}
+{"time":"2026-05-12T11:36:12.396571+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:36:26.969083+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":972,"events_lines":2}
+{"time":"2026-05-12T11:36:27.355964+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:36:41.968973+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":974,"events_lines":2}
+{"time":"2026-05-12T11:36:42.691641+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:36:56.973052+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":976,"events_lines":2}
+{"time":"2026-05-12T11:36:57.324503+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:37:11.971646+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":978,"events_lines":2}
+{"time":"2026-05-12T11:37:12.244825+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:37:26.972186+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":980,"events_lines":2}
+{"time":"2026-05-12T11:37:27.358027+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:37:41.969008+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":982,"events_lines":2}
+{"time":"2026-05-12T11:37:42.24113+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:37:56.968945+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":984,"events_lines":2}
+{"time":"2026-05-12T11:37:57.214561+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:38:11.969037+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":986,"events_lines":2}
+{"time":"2026-05-12T11:38:12.29375+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:38:26.969121+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":988,"events_lines":2}
+{"time":"2026-05-12T11:38:27.243694+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:38:41.969244+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":990,"events_lines":2}
+{"time":"2026-05-12T11:38:42.265321+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:38:56.971284+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":992,"events_lines":2}
+{"time":"2026-05-12T11:38:57.277563+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:39:11.969653+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":994,"events_lines":2}
+{"time":"2026-05-12T11:39:12.295909+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:39:26.969921+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":996,"events_lines":2}
+{"time":"2026-05-12T11:39:27.271251+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:39:41.969926+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":998,"events_lines":2}
+{"time":"2026-05-12T11:39:42.238318+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:39:56.969917+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1000,"events_lines":2}
+{"time":"2026-05-12T11:39:57.455665+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:40:11.969809+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1002,"events_lines":2}
+{"time":"2026-05-12T11:40:12.355355+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:40:26.969142+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1004,"events_lines":2}
+{"time":"2026-05-12T11:40:27.36046+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:40:41.970038+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1006,"events_lines":2}
+{"time":"2026-05-12T11:40:42.320967+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:40:56.969997+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1008,"events_lines":2}
+{"time":"2026-05-12T11:40:57.260917+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:41:11.969738+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1010,"events_lines":2}
+{"time":"2026-05-12T11:41:12.226316+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:41:26.970605+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1012,"events_lines":2}
+{"time":"2026-05-12T11:41:27.193974+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:41:41.969869+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1014,"events_lines":2}
+{"time":"2026-05-12T11:41:42.221748+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:41:56.970755+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1016,"events_lines":2}
+{"time":"2026-05-12T11:41:57.289349+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:42:11.969882+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1018,"events_lines":2}
+{"time":"2026-05-12T11:42:12.246439+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
+{"time":"2026-05-12T11:42:26.969117+02:00","level":"INFO","msg":"filestream: sending request","total_files":1,"events_offset":1020,"events_lines":2}
+{"time":"2026-05-12T11:42:27.208906+02:00","level":"INFO","msg":"filestream: request sent","status":"200 OK"}
