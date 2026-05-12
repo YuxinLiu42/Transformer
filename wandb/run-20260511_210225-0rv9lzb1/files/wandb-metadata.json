@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-26.2-arm64-arm-64bit",
+  "python":  "CPython 3.11.5",
+  "startedAt":  "2026-05-11T19:02:25.703682Z",
+  "program":  "Fine-tuning a pretrained model.ipynb",
+  "codePath":  "Fine-tuning a pretrained model.ipynb",
+  "codePathLocal":  "Fine-tuning a pretrained model.ipynb",
+  "git":  {
+    "remote":  "https://github.com/YuxinLiu42/Transformer.git",
+    "commit":  "1443248cbdb312a55e490798f2d516bfcf98f5fe"
+  },
+  "email":  "liuyuxinnj@gmail.com",
+  "root":  "/Users/yuxinliu/Desktop/M2/Transformer",
+  "host":  "MacBook-Air-L.local",
+  "executable":  "/Users/yuxinliu/anaconda3/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "216287563776"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "apple":  {
+    "name":  "Apple M2",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  8,
+    "swapTotalBytes":  "6442450944",
+    "ramTotalBytes":  "8589934592",
+    "macModel":  "Mac14,2"
+  },
+  "writerId":  "fozycpu2lugkm27wa4f3hvgwxa0q6cge"
+}
