@@ -1,4 +1,5 @@
 .DS_Store
 *.tsv
 *.csv
-wandb/test-trainer/
+wandb/
+test-trainer/
