@@ -3,3 +3,6 @@
 *.csv
 wandb/
 test-trainer/
+bert-*/
+code-*/
+distilbert-*/
